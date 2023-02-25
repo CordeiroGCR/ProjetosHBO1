@@ -1,0 +1,88 @@
+bory {
+  
+   display: flex;
+   flex-direction: column;
+}
+#cont{
+    margin-left: 94px;
+    margin-top: 100px;
+}
+#cont h1{
+    font-family:'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 62px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#cont h3 {
+    font-family:'Times New Roman';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#cont p {
+    font-family:'Times New Roman';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 30px;   
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;   
+}
+#form label{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+#form input {
+    width: 500px;
+    height: 30px;
+    margin: 10px auto;
+    border-color: #000000;
+    color: #000000;
+}
+#form button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 75px;
+    height: 30px;
+    color: #000000;
+    border-color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 10px;
+}
+#baixo button {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 10px;
+    width: 300px;
+    height: 35px;
+    color: #000000;
+    border-color: #000000;
+
+
+}
+ 
+ 
+
+
